@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/allan-yego/git-deck/",
+  "homepage": "https://allan-yego.github.io/git-deck",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
